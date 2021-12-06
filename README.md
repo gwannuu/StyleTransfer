@@ -3,15 +3,18 @@
 - I wrote this code based on this tutorial, "https://pytorch.org/tutorials/advanced/neural_style_tutorial.html"
 
 ## Example result
-content image
-![image](gatys/data/content/effeltower.jpg)
+##### content image
+<img src="gatys/data/content/effeltower.jpg"  width="35%" height="35%"/>
 
-style image
-![image](gatys/data/style/TheWeepingWoman.jpg)
-result
 
-![image](gatys/effelTower_TheWeepingWoman.png)
-condition
+##### style image
+<img src="gatys/data/style/TheWeepingWoman.jpg"  width="35%" height="35%"/>
+
+
+##### result
+<img src="gatys/effelTower_TheWeepingWoman.png"  width="35%" height="35%"/>
+
+##### condition
 - itersize: 50
 - style weight: 100000
 - content weight: 1
