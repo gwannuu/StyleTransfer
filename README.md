@@ -4,11 +4,13 @@
 
 ## Example result
 content image
+![image](gatys/data/content/effeltower.jpg)
 
 style image
-
+![image](gatys/data/style/TheWeepingWoman.jpg)
 result
 
+![image](gatys/effelTower_TheWeepingWoman.png)
 condition
 - itersize: 50
 - style weight: 100000
