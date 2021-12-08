@@ -1,6 +1,6 @@
 # Gatys
 - This is the reproduction of basic style transfer algorithm, "A Neural Algorithm of Artistic Style".
-- I wrote this code based on this tutorial, "https://pytorch.org/tutorials/advanced/neural_style_tutorial.html"
+- I wrote code based on this tutorial, "https://pytorch.org/tutorials/advanced/neural_style_tutorial.html"
 
 ## Example
 ##### content image
