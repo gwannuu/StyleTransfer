@@ -1,4 +1,4 @@
-# Gatys
+# A Neural Algorithm of Style Transfer (Gatys)
 - This is the reproduction of basic style transfer algorithm, "A Neural Algorithm of Artistic Style".
 - I wrote code based on this tutorial, "https://pytorch.org/tutorials/advanced/neural_style_tutorial.html"
 
